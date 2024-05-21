@@ -1,0 +1,36 @@
+{
+    "elements": [
+        {
+            "element": "Clarity and Specificity",
+            "description": "Clearly define the task or question you want the AI to address. Avoid ambiguous language to ensure the AI understands your intent."
+        },
+        {
+            "element": "Context",
+            "description": "Provide enough background information or context to help the AI generate relevant and accurate responses."
+        },
+        {
+            "element": "Conciseness",
+            "description": "Keep the prompt as brief as possible while including all necessary details. Long, complex prompts can lead to confusion."
+        },
+        {
+            "element": "Examples",
+            "description": "Include examples if applicable to illustrate the desired outcome or format. This helps guide the AI's response."
+        },
+        {
+            "element": "Constraints and Guidelines",
+            "description": "Specify any constraints or guidelines the AI should follow, such as word limits, tone, or format."
+        },
+        {
+            "element": "Open-Ended vs. Close-Ended",
+            "description": "Decide whether you need an open-ended response (e.g., creative writing) or a close-ended one (e.g., specific answer) and structure the prompt accordingly."
+        },
+        {
+            "element": "Relevance",
+            "description": "Ensure the prompt is directly related to the task at hand and avoid irrelevant information that can distract the AI."
+        },
+        {
+            "element": "Iteration and Testing",
+            "description": "Test and refine the prompt through iterations to achieve the best possible results. Modify based on the AI's responses to improve clarity and effectiveness."
+        }
+    ]
+}
