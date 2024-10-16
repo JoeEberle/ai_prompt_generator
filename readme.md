@@ -53,11 +53,8 @@ To get started with the **A.I. Prompt Generator** solution repository, follow th
  ![additional_image](ai_prompt_generator.png)  <br>![additional_image](Prompt_engineering.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
