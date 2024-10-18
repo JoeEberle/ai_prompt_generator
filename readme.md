@@ -1,11 +1,4 @@
-
-![Image image_filename](solution_sign.png)
-
-# A.I. Prompt Generator - Produce high quality prompts to get the most out of AI.
-Produce high quality prompts to get the most out of AI.
-
-![Image image_filename](code.png)
-
+![Image image_filename](solution_sign.png)# A.I. Prompt Generator - Produce high quality prompts to get the most out of AI.![Image image_filename](code.png)
 ## AI prompt engineering
 
 **AI prompt engineering** involves designing and refining inputs (prompts) given to an AI model to generate the most relevant and accurate responses. This practice is crucial because well-crafted prompts can significantly enhance the performance of AI systems, ensuring they understand the context and deliver precise, useful outputs. Effective prompt engineering is vital for leveraging AI capabilities in various applications, from customer support to content creation, thereby improving efficiency and user experience.
@@ -23,9 +16,7 @@ Produce high quality prompts to get the most out of AI.
   7. **Relevance** - Ensure the prompt is directly related to the task at hand and avoid irrelevant information that can distract the AI. 
   8. **Iteration and Testing** - Test and refine the prompt through iterations to achieve the best possible results. Modify based on the AI's responses to improve clarity and effectiveness. 
  <br>
-
 ![Image image_filename](sample.png)
-
 ## Getting Started
 To get started with the **A.I. Prompt Generator** solution repository, follow these steps:
 1. Clone the repository to your local machine.
@@ -40,6 +31,9 @@ To get started with the **A.I. Prompt Generator** solution repository, follow th
 - Its Fast and Automated
 
 ## Notebook Features
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
 - **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
@@ -49,13 +43,11 @@ To get started with the **A.I. Prompt Generator** solution repository, follow th
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
-## Deliverables or Figures
+## List of Figures
  ![additional_image](ai_prompt_generator.png)  <br>![additional_image](Prompt_engineering.png)  <br>
     
 
-## Github    https://github.com/JoeEberle/ 
-## Email  josepheberle@outlook.com 
-
+## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
     
 ![Developer](developer.png)
 
