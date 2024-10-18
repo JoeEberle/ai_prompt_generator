@@ -4,7 +4,20 @@
 
 ## Produce high quality prompts to get the most out of AI.
 
-    ![Image image_filename](code.png)
+    
+# Table of Contents
+
+- [Solution Overview](#Solution-Overview)
+- [Return on Investment (ROI)](#return-on-investment-roi)
+- [How it Works](#how-it-works)
+- [Conclusion](#conclusion)
+- [Getting Started](#getting-started)
+- [Solution Features](#solution-features)
+- [Notebook Features](#notebook-features)
+- [Deliverables or Figures](#deliverables-or-figures)
+- [Contact Information](#contact-information)
+
+![Image image_filename](code.png)
 ## AI prompt engineering
 
 **AI prompt engineering** involves designing and refining inputs (prompts) given to an AI model to generate the most relevant and accurate responses. This practice is crucial because well-crafted prompts can significantly enhance the performance of AI systems, ensuring they understand the context and deliver precise, useful outputs. Effective prompt engineering is vital for leveraging AI capabilities in various applications, from customer support to content creation, thereby improving efficiency and user experience.
