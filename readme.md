@@ -16,7 +16,7 @@
   7. **Relevance** - Ensure the prompt is directly related to the task at hand and avoid irrelevant information that can distract the AI. 
   8. **Iteration and Testing** - Test and refine the prompt through iterations to achieve the best possible results. Modify based on the AI's responses to improve clarity and effectiveness. 
  <br>
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
